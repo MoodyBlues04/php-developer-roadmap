@@ -31,6 +31,10 @@ The repository is created when working on the following YouTube video [PHP Devel
 21. **[Design Patterns](https://github.com/thecodeholic/php-developer-roadmap#design-patterns)**
 ------
 
+| Unchecked | Checked |
+| --------- | ------- |
+| &#9744;   | &#9745; |
+
 ### How Internet & Websites works
 | Resource Name                             |Duration| Resource                                                | Nark |
 |-------------------------------------------|--------|---------------------------------------------------------|------|
