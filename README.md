@@ -43,11 +43,11 @@ The repository is created when working on the following YouTube video [PHP Devel
 | How does the internet work? (Full Course) | 1h 42m | https://youtu.be/zN8YNNHcaZc                            | &#9744;|
 
 ### Browser/Server request flow, HTTP Protocol, Status codes
-| Resource Name                   |Duration| Resource                                                |  Mark  |
-|---------------------------------|--------|---------------------------------------------------------|--------|
-| HTTP Crash Course & Exploration | 38m    | https://youtu.be/iYM2zFP3Zn0                            | &#9744;|
-| MDN HTTP Tutorial               |        | https://developer.mozilla.org/en-US/docs/Web/HTTP       | &#9744;|
-| Wikipedia Status Codes          |        | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes | &#9744;|
+| Resource Name                   |Duration | Resource                                                |  Mark  |
+|---------------------------------|---------|---------------------------------------------------------|--------|
+| HTTP Crash Course & Exploration |  38m    | https://youtu.be/iYM2zFP3Zn0                            | &#9744;|
+| MDN HTTP Tutorial               | article | https://developer.mozilla.org/en-US/docs/Web/HTTP       | &#9744;|
+| Wikipedia Status Codes          | article | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes | &#9744;|
 
 ### Basics of HTML/CSS
 | Resource Name                                 |Duration| Resource                                     |
